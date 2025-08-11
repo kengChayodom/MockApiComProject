@@ -1,4 +1,6 @@
-[
+{
+  "news":
+  [
   {
     "id": 1,
     "title": "Tourism in Dubai Surges as International Flights Rebound",
@@ -240,3 +242,4 @@
     "vote": { "real": 88, "fake": 4 }
   }
 ]
+}
