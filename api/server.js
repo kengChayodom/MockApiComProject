@@ -13,7 +13,9 @@ server.use((req, res, next) => {
   res.header('Access-Control-Allow-Methods', 'GET,POST,PUT,PATCH,DELETE,OPTIONS');
   res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization');
 
-  if (req.method === 'OPTIONS') {
+  res.header('Access-Control-Expose-Headers', 'X-Total-Count, Link')
+
+  if (req.method === 'OPTIONS') { 
     return res.sendStatus(200);
   }
   next();
