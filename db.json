@@ -248,6 +248,7 @@
       "commentId": 101,
       "newsId": 1,
       "author": "John Doe",
+      "authorVerdict": "real",
       "commentText": "Great to see tourism bouncing back—hotels must be thrilled.",
       "date": "2025-08-12",
       "time": "14:30",
@@ -256,192 +257,450 @@
     {
       "id": 2,
       "commentId": 102,
+      "newsId": 1,
+      "author": "Skeptic101",
+      "authorVerdict": "fake",
+      "commentText": "These numbers feel inflated—need independent sources.",
+      "date": "2025-08-12",
+      "time": "14:45",
+      "images": []
+    },
+
+    {
+      "id": 3,
+      "commentId": 103,
       "newsId": 2,
       "author": "Marta S.",
+      "authorVerdict": "real",
       "commentText": "Big implications for worker rights. Curious how pricing will change.",
       "date": "2025-08-12",
       "time": "15:05",
       "images": ["https://images.unsplash.com/photo-1486406146926-c627a92ad1ab"]
     },
     {
-      "id": 3,
-      "commentId": 103,
+      "id": 4,
+      "commentId": 104,
+      "newsId": 2,
+      "author": "DoubtfulRider",
+      "authorVerdict": "fake",
+      "commentText": "I doubt this ruling will truly improve pay or conditions.",
+      "date": "2025-08-12",
+      "time": "15:15",
+      "images": []
+    },
+
+    {
+      "id": 5,
+      "commentId": 105,
       "newsId": 3,
       "author": "EcoRider",
+      "authorVerdict": "real",
       "commentText": "Electric buses are the way forward—please add more routes!",
       "date": "2025-08-11",
       "time": "10:22",
       "images": ["https://images.unsplash.com/photo-1605296867304-46d5465a13f1"]
     },
     {
-      "id": 4,
-      "commentId": 104,
+      "id": 6,
+      "commentId": 106,
+      "newsId": 3,
+      "author": "RangeWorrier",
+      "authorVerdict": "fake",
+      "commentText": "Sounds like PR—range and charging times will kill this plan.",
+      "date": "2025-08-11",
+      "time": "10:40",
+      "images": []
+    },
+
+    {
+      "id": 7,
+      "commentId": 107,
       "newsId": 4,
       "author": "HealthFacts",
+      "authorVerdict": "fake",
       "commentText": "No clinical evidence supports this—don’t fall for viral claims.",
       "date": "2025-08-08",
       "time": "11:01",
       "images": ["https://images.unsplash.com/photo-1615485290309-5e3b9e43d9f0"]
     },
     {
-      "id": 5,
-      "commentId": 105,
+      "id": 8,
+      "commentId": 108,
+      "newsId": 4,
+      "author": "ChocoBeliever",
+      "authorVerdict": "real",
+      "commentText": "Dark chocolate helps me—maybe not a cure, but I feel better!",
+      "date": "2025-08-08",
+      "time": "11:20",
+      "images": []
+    },
+
+    {
+      "id": 9,
+      "commentId": 109,
       "newsId": 5,
       "author": "QuakeWatcher",
+      "authorVerdict": "real",
       "commentText": "Stay safe everyone—check gas lines and structural damage.",
       "date": "2025-08-07",
       "time": "22:45",
       "images": ["https://images.unsplash.com/photo-1520975922215-230d5d1f38b0"]
     },
     {
-      "id": 6,
-      "commentId": 106,
+      "id": 10,
+      "commentId": 110,
+      "newsId": 5,
+      "author": "Overhype",
+      "authorVerdict": "fake",
+      "commentText": "Media overblowing it again—damage seems minor to me.",
+      "date": "2025-08-07",
+      "time": "23:05",
+      "images": []
+    },
+
+    {
+      "id": 11,
+      "commentId": 111,
       "newsId": 6,
       "author": "SpaceNerd",
+      "authorVerdict": "real",
       "commentText": "Successful deployment! Weather forecasting should benefit a lot.",
       "date": "2025-08-06",
       "time": "06:10",
       "images": ["https://images.unsplash.com/photo-1446776811953-b23d57bd21aa"]
     },
     {
-      "id": 7,
-      "commentId": 107,
+      "id": 12,
+      "commentId": 112,
+      "newsId": 6,
+      "author": "LaunchSkeptic",
+      "authorVerdict": "fake",
+      "commentText": "I’ll believe it when we see real datasets—sounds like marketing.",
+      "date": "2025-08-06",
+      "time": "06:25",
+      "images": []
+    },
+
+    {
+      "id": 13,
+      "commentId": 113,
       "newsId": 7,
       "author": "FireSafe",
+      "authorVerdict": "real",
       "commentText": "Huge thanks to all crews on the line—heroes.",
       "date": "2025-08-05",
       "time": "17:02",
       "images": ["https://images.unsplash.com/photo-1507915135761-41a0a222c709"]
     },
     {
-      "id": 8,
-      "commentId": 108,
+      "id": 14,
+      "commentId": 114,
+      "newsId": 7,
+      "author": "DoubtfulLocal",
+      "authorVerdict": "fake",
+      "commentText": "95% contained? Feels like they’re sugarcoating the risk.",
+      "date": "2025-08-05",
+      "time": "17:20",
+      "images": []
+    },
+
+    {
+      "id": 15,
+      "commentId": 115,
       "newsId": 8,
       "author": "CafeOwner",
+      "authorVerdict": "fake",
       "commentText": "So much misinformation—always verify with official sources.",
       "date": "2025-08-10",
       "time": "15:03",
       "images": ["https://images.unsplash.com/photo-1511920170033-f8396924c348"]
     },
     {
-      "id": 9,
-      "commentId": 109,
+      "id": 16,
+      "commentId": 116,
+      "newsId": 8,
+      "author": "PolicyWatcher",
+      "authorVerdict": "real",
+      "commentText": "Wouldn’t be surprised if a ban comes later—watch this space.",
+      "date": "2025-08-10",
+      "time": "15:18",
+      "images": []
+    },
+
+    {
+      "id": 17,
+      "commentId": 117,
       "newsId": 9,
       "author": "RoboticsFan",
+      "authorVerdict": "real",
       "commentText": "Fantastic result! That hybrid SLAM clearly paid off.",
       "date": "2025-08-09",
       "time": "18:00",
       "images": ["https://images.unsplash.com/photo-1581092160562-040e79aa9fef"]
     },
     {
-      "id": 10,
-      "commentId": 110,
+      "id": 18,
+      "commentId": 118,
+      "newsId": 9,
+      "author": "SourGrapes",
+      "authorVerdict": "fake",
+      "commentText": "Probably luck—bet the maze was easier for them.",
+      "date": "2025-08-09",
+      "time": "18:20",
+      "images": []
+    },
+
+    {
+      "id": 19,
+      "commentId": 119,
       "newsId": 10,
       "author": "SecOps",
+      "authorVerdict": "real",
       "commentText": "Glad payment data is safe—please keep customers informed.",
       "date": "2025-08-04",
       "time": "12:05",
       "images": ["https://images.unsplash.com/photo-1518770660439-4636190af475"]
     },
     {
-      "id": 11,
-      "commentId": 111,
+      "id": 20,
+      "commentId": 120,
+      "newsId": 10,
+      "author": "BreachDoubter",
+      "authorVerdict": "fake",
+      "commentText": "Smells like damage control—bet more data was exposed.",
+      "date": "2025-08-04",
+      "time": "12:25",
+      "images": []
+    },
+
+    {
+      "id": 21,
+      "commentId": 121,
       "newsId": 11,
       "author": "MacroView",
+      "authorVerdict": "fake",
       "commentText": "That chart is misleading—don’t panic over cherry-picked data.",
       "date": "2025-08-03",
       "time": "09:12",
       "images": ["https://images.unsplash.com/photo-1501183638710-841dd1904471"]
     },
     {
-      "id": 12,
-      "commentId": 112,
+      "id": 22,
+      "commentId": 122,
+      "newsId": 11,
+      "author": "BearishBob",
+      "authorVerdict": "real",
+      "commentText": "The crash is coming—just wait till September.",
+      "date": "2025-08-03",
+      "time": "09:30",
+      "images": []
+    },
+
+    {
+      "id": 23,
+      "commentId": 123,
       "newsId": 12,
       "author": "DailyCommuter",
+      "authorVerdict": "real",
       "commentText": "Great to have the line back—3-minute peak headways sound amazing.",
       "date": "2025-08-02",
       "time": "07:10",
       "images": ["https://images.unsplash.com/photo-1507120410856-1f35574c3b45"]
     },
     {
-      "id": 13,
-      "commentId": 113,
+      "id": 24,
+      "commentId": 124,
+      "newsId": 12,
+      "author": "RushHourRant",
+      "authorVerdict": "fake",
+      "commentText": "Three minutes? I’ll believe it when I’m not stuck on the platform.",
+      "date": "2025-08-02",
+      "time": "07:22",
+      "images": []
+    },
+
+    {
+      "id": 25,
+      "commentId": 125,
       "newsId": 13,
       "author": "MarketGoer",
+      "authorVerdict": "real",
       "commentText": "QR payments make queues fly—thanks for keeping a cash option.",
       "date": "2025-08-01",
       "time": "10:35",
       "images": ["https://images.unsplash.com/photo-1506806732259-39c2d0268443"]
     },
     {
-      "id": 14,
-      "commentId": 114,
+      "id": 26,
+      "commentId": 126,
+      "newsId": 13,
+      "author": "DataWary",
+      "authorVerdict": "fake",
+      "commentText": "Cashless pushes surveillance—don’t love handing over my data.",
+      "date": "2025-08-01",
+      "time": "10:50",
+      "images": []
+    },
+
+    {
+      "id": 27,
+      "commentId": 127,
       "newsId": 14,
       "author": "ERnurse",
+      "authorVerdict": "fake",
       "commentText": "ERs must treat everyone—ignore the edited screenshots.",
       "date": "2025-08-05",
       "time": "20:00",
       "images": ["https://images.unsplash.com/photo-1586773860418-d37222d8fce3"]
     },
     {
-      "id": 15,
-      "commentId": 115,
+      "id": 28,
+      "commentId": 128,
+      "newsId": 14,
+      "author": "ShotSkeptic",
+      "authorVerdict": "real",
+      "commentText": "Policies are getting stricter everywhere—this sounds plausible.",
+      "date": "2025-08-05",
+      "time": "20:20",
+      "images": []
+    },
+
+    {
+      "id": 29,
+      "commentId": 129,
       "newsId": 15,
       "author": "UltrasFan",
+      "authorVerdict": "real",
       "commentText": "Great to have the striker back—ease him in slowly.",
       "date": "2025-08-08",
       "time": "12:45",
       "images": ["https://images.unsplash.com/photo-1517649763962-0c623066013b"]
     },
     {
-      "id": 16,
-      "commentId": 116,
+      "id": 30,
+      "commentId": 130,
+      "newsId": 15,
+      "author": "FitnessSkeptic",
+      "authorVerdict": "fake",
+      "commentText": "He’s not match-fit—expect a setback if he rushes back.",
+      "date": "2025-08-08",
+      "time": "13:00",
+      "images": []
+    },
+
+    {
+      "id": 31,
+      "commentId": 131,
       "newsId": 16,
       "author": "RiverTown",
+      "authorVerdict": "real",
       "commentText": "Some roads are still flooded—drive carefully out there.",
       "date": "2025-08-11",
       "time": "08:10",
       "images": ["https://images.unsplash.com/photo-1520659803643-78f08be0f3c4"]
     },
     {
-      "id": 17,
-      "commentId": 117,
+      "id": 32,
+      "commentId": 132,
+      "newsId": 16,
+      "author": "StormDoubter",
+      "authorVerdict": "fake",
+      "commentText": "Forecasts always exaggerate—schools didn’t need to close.",
+      "date": "2025-08-11",
+      "time": "08:25",
+      "images": []
+    },
+
+    {
+      "id": 33,
+      "commentId": 133,
       "newsId": 17,
       "author": "IPOwatch",
+      "authorVerdict": "real",
       "commentText": "120% NDRR is strong—can’t wait to see the S-1.",
       "date": "2025-08-06",
       "time": "13:40",
       "images": ["https://images.unsplash.com/photo-1520607162513-77705c0f0d4a"]
     },
     {
-      "id": 18,
-      "commentId": 118,
+      "id": 34,
+      "commentId": 134,
+      "newsId": 17,
+      "author": "S1Skeptic",
+      "authorVerdict": "fake",
+      "commentText": "Tripled revenue? Feels like aggressive revenue recognition.",
+      "date": "2025-08-06",
+      "time": "13:55",
+      "images": []
+    },
+
+    {
+      "id": 35,
+      "commentId": 135,
       "newsId": 18,
       "author": "CityLight",
+      "authorVerdict": "fake",
       "commentText": "Warm-white LEDs are fine—no, they’re not hidden cameras.",
       "date": "2025-08-03",
       "time": "21:30",
       "images": ["https://images.unsplash.com/photo-1501594907352-04cda38ebc29"]
     },
     {
-      "id": 19,
-      "commentId": 119,
+      "id": 36,
+      "commentId": 136,
+      "newsId": 18,
+      "author": "BlueLEDTruth",
+      "authorVerdict": "real",
+      "commentText": "I’ve seen posts about blue LEDs tracking faces—seems legit.",
+      "date": "2025-08-03",
+      "time": "21:45",
+      "images": []
+    },
+
+    {
+      "id": 37,
+      "commentId": 137,
       "newsId": 19,
       "author": "AvGeek",
+      "authorVerdict": "real",
       "commentText": "That new observation deck looks awesome—perfect for long layovers.",
       "date": "2025-08-09",
       "time": "09:02",
       "images": ["https://images.unsplash.com/photo-1461694053584-214bb49e44b3"]
     },
     {
-      "id": 20,
-      "commentId": 120,
+      "id": 38,
+      "commentId": 138,
+      "newsId": 19,
+      "author": "NoiseWorry",
+      "authorVerdict": "fake",
+      "commentText": "Glass walls won’t reduce noise—this reads like airport PR.",
+      "date": "2025-08-09",
+      "time": "09:20",
+      "images": []
+    },
+
+    {
+      "id": 39,
+      "commentId": 139,
       "newsId": 20,
       "author": "GreenThumb",
+      "authorVerdict": "real",
       "commentText": "Love community gardens—great work feeding so many people!",
       "date": "2025-08-01",
       "time": "18:00",
       "images": ["https://images.unsplash.com/photo-1506806732259-39c2d0268443"]
+    },
+    {
+      "id": 40,
+      "commentId": 140,
+      "newsId": 20,
+      "author": "YieldSkeptic",
+      "authorVerdict": "fake",
+      "commentText": "2,000 residents? Those numbers feel very optimistic.",
+      "date": "2025-08-01",
+      "time": "18:15",
+      "images": []
     }
   ]
 
