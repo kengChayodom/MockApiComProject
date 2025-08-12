@@ -701,7 +701,18 @@
       "date": "2025-08-01",
       "time": "18:15",
       "images": []
-    }
+    },
+    {
+      "id": 41,
+      "commentId": 141,
+      "newsId": 1,
+      "author": "Attiwit Tin Intasarn",
+      "authorVerdict": "real",
+      "commentText": "Mean malaJa.",
+      "date": "2025-08-13",
+      "time": "12:22",
+      "images": ["https://www.bloggang.com/data/wildbirds/picture/1189065343.jpg"]
+    },
   ]
 
 }
