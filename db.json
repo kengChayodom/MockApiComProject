@@ -39,9 +39,9 @@
   },
   {
     "id": 4,
-    "title": "Chocolate Cures the Common Cold, Claims Viral Post",
-    "summary": "A trending article says 200g of dark chocolate a day makes you immune to colds.",
-    "content": "Medical researchers say there is no clinical evidence supporting the claim. Doctors warn against excessive sugar intake and recommend rest, hydration, and vaccination for flu prevention.",
+    "title": "Thailand accuses Cambodia of violating hours-old ceasefire",
+    "summary": "Thailand, which had initially been reluctant to negotiate, agreed to the talks.",
+    "content": "Thailand has accused Cambodia of "deliberately" violating a ceasefire the two countries agreed on Monday to end border clashes that have killed at least 33 people and displaced thousands.",
     "status": 0,
     "reporter": "Sarah Mitchell",
     "date": "2025-08-08",
@@ -51,14 +51,14 @@
   },
   {
     "id": 5,
-    "title": "Magnitude 6.2 Earthquake Strikes Coastal Region",
+    "title": "Thailand and Cambodia agree to 'immediate ceasefire'",
     "summary": "Shaking felt across several cities; emergency crews assess damage to older buildings.",
     "content": "The national seismology center recorded multiple aftershocks. Authorities reported power cuts in two districts and urged residents to check for gas leaks before returning indoors.",
     "status": 1,
     "reporter": "Hannah Ortiz",
     "date": "2025-08-07",
     "time": "22:14",
-    "image": "https://images.unsplash.com/photo-1520975922215-230d5d1f38b0",
+    "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2d5a/live/39d60ab0-6ba5-11f0-89ea-4d6f9851f623.jpg.webp",
     "vote": { "real": 165, "fake": 9 }
   },
   {
@@ -99,14 +99,14 @@
   },
   {
     "id": 9,
-    "title": "University Team Wins International Robotics Challenge",
-    "summary": "Autonomous rover completes maze tasks faster than any competitor in Tokyo finals.",
-    "content": "The team used a hybrid SLAM approach and custom carbon-fiber chassis. Judges praised the rover's reliability under time pressure and its obstacle-avoidance accuracy.",
+    "title": "Why are Thailand and Cambodia fighting at the border?",
+    "summary": "On Thursday, simmering tensions between Thailand and Cambodia exploded into a deadly battle at the border.",
+    "content": "At least 12 Thai nationals, most of whom are civilians, have been killed, Thai authorities have said.",
     "status": 1,
     "reporter": "Michael Lee",
     "date": "2025-08-09",
     "time": "17:15",
-    "image": "https://images.unsplash.com/photo-1581092160562-040e79aa9fef",
+    "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/dfaa/live/53d6fa40-6877-11f0-af20-030418be2ca5.jpg.webp",
     "vote": { "real": 104, "fake": 5 }
   },
   {
@@ -183,14 +183,14 @@
   },
   {
     "id": 16,
-    "title": "Flood Barriers Deployed as Heavy Rains Lash Riverside Town",
-    "summary": "Authorities distribute sandbags; schools to operate online for two days.",
-    "content": "Meteorologists forecast more rainfall through Tuesday. Public works crews cleared storm drains and urged motorists to avoid underpasses prone to flooding.",
+    "title": "Cambodia calls for immediate ceasefire with Thailand as death toll rises",
+    "summary": "Cambodia has called for an immediate ceasefire with Thailand, as the two countries have seen more than 30 people killed, including civilians, in the ongoing border clashes.",
+    "content": "Cambodia's ambassador to the UN, Chhea Keo, said his country asked for a truce unconditionally, adding that Phnom Penh also wanted a peaceful solution of the dispute.",
     "status": 1,
     "reporter": "Ivy Collins",
     "date": "2025-08-11",
     "time": "07:05",
-    "image": "https://images.unsplash.com/photo-1520659803643-78f08be0f3c4",
+    "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0e10/live/4b878f00-69ce-11f0-8466-2ddd2c2f7340.jpg.webp",
     "vote": { "real": 101, "fake": 12 }
   },
   {
@@ -219,14 +219,14 @@
   },
   {
     "id": 19,
-    "title": "Airport Opens New Glass-Walled Observation Deck",
-    "summary": "Travelers get panoramic runway views and a café with extended hours.",
-    "content": "The renovation adds seating, charging points, and an aviation exhibit curated with local enthusiasts. The deck uses laminated glass to reduce noise.",
+    "title": "The fractured friendship behind the fight at the Thailand-Cambodia border",
+    "summary": "Or perhaps it was something simpler: a Machiavellian move by one of Asia's wiliest political survivors.",
+    "content": "Many people have faulted Paetongtarn for her conversation with Hun Sen. She appeared to believe that she could resolve their differences by appealing to his friendship with her father, former prime minister Thaksin Shinawatra.",
     "status": 1,
     "reporter": "Elise Wagner",
     "date": "2025-08-09",
     "time": "08:30",
-    "image": "https://images.unsplash.com/photo-1461694053584-214bb49e44b3",
+    "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/d97d/live/1b620d70-68dc-11f0-8dbd-f3d32ebd3327.jpg.webp",
     "vote": { "real": 74, "fake": 5 }
   },
   {
