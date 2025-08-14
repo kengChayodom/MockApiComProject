@@ -595,7 +595,106 @@
       "date": "2025-07-16",
       "time": "18:12",
       "images": ["https://i.pinimg.com/736x/31/ea/9a/31ea9a0324756719da71f39be82f22bf.jpg"]
-    }
+    },
+    {
+    "id": 41,
+    "commentId": 141,
+    "newsId": 3,
+    "author": "Nattaporn W.",
+    "authorVerdict": "real",
+    "commentText": "The electric bus fleet will really help cut pollution and improve public transport comfort.",
+    "date": "2025-08-12",
+    "time": "09:45",
+    "images": ["https://i.pinimg.com/736x/f9/9d/60/f99d604374289016776e99795b120e16.jpg"]
+  },
+  {
+    "id": 42,
+    "commentId": 142,
+    "newsId": 3,
+    "author": "Somsak P.",
+    "authorVerdict": "fake",
+    "commentText": "I doubt the buses will operate as promised—maintenance is often neglected here.",
+    "date": "2025-08-12",
+    "time": "09:52",
+    "images": ["https://i.pinimg.com/474x/bf/39/1f/bf391fe7a21414a2fa42406064d90ce9.jpg"]
+  },
+  {
+    "id": 43,
+    "commentId": 143,
+    "newsId": 4,
+    "author": "Anucha T.",
+    "authorVerdict": "real",
+    "commentText": "Clear evidence of ceasefire violations needs to be addressed immediately to prevent escalation.",
+    "date": "2025-08-09",
+    "time": "08:25",
+    "images": ["https://i.pinimg.com/1200x/13/d2/3f/13d23fbe3ade29fcfc881ebe9df7826f.jpg"]
+  },
+  {
+    "id": 44,
+    "commentId": 144,
+    "newsId": 4,
+    "author": "Jirawan K.",
+    "authorVerdict": "fake",
+    "commentText": "This is just political maneuvering—both sides share blame for the tensions.",
+    "date": "2025-08-09",
+    "time": "08:40",
+    "images": ["https://i.pinimg.com/736x/56/c1/89/56c189534c7ccfe16a196cd7b1ce9651.jpg"]
+  },
+  {
+    "id": 45,
+    "commentId": 145,
+    "newsId": 5,
+    "author": "Kanchana R.",
+    "authorVerdict": "real",
+    "commentText": "Glad they reached an immediate ceasefire—this could save many lives.",
+    "date": "2025-08-08",
+    "time": "10:15",
+    "images": ["https://i.pinimg.com/736x/f5/30/a3/f530a3d5154f79f7d89187889ca1ec6a.jpg"]
+  },
+  {
+    "id": 46,
+    "commentId": 146,
+    "newsId": 5,
+    "author": "Chaiyapol N.",
+    "authorVerdict": "fake",
+    "commentText": "We’ve seen ceasefires like this fall apart quickly—don’t get too hopeful.",
+    "date": "2025-08-08",
+    "time": "10:22",
+    "images": ["https://i.pinimg.com/736x/4d/57/bf/4d57bf82554d856f2bff68ff35846938.jpg"]
+  },
+  {
+    "id": 47,
+    "commentId": 147,
+    "newsId": 6,
+    "author": "Sirinapa M.",
+    "authorVerdict": "real",
+    "commentText": "A successful launch like this boosts confidence in our space technology sector.",
+    "date": "2025-08-06",
+    "time": "06:10",
+    "images": ["https://i.pinimg.com/736x/61/39/57/6139576d1c7c8ae3f899742c9cf26019.jpg"]
+  },
+  {
+    "id": 48,
+    "commentId": 148,
+    "newsId": 6,
+    "author": "Wichai P.",
+    "authorVerdict": "fake",
+    "commentText": "Private launches sound good, but we should question the actual benefit to the public.",
+    "date": "2025-08-06",
+    "time": "06:18",
+    "images": ["https://i.pinimg.com/736x/99/9e/67/999e6732d0bce1d9e780c9ac42a10b4a.jpg"]
+  },
+  {
+    "id": 49,
+    "commentId": 149,
+    "newsId": 6,
+    "author": "Phattharaphong S.",
+    "authorVerdict": "real",
+    "commentText": "Better weather satellites mean more accurate forecasts—this will help farmers a lot.",
+    "date": "2025-08-06",
+    "time": "06:25",
+    "images": ["https://i.pinimg.com/736x/53/54/c5/5354c575c35e8691c34a00c22e44ea4c.jpg"]
+  }
   ]
 }
 
