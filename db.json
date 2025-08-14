@@ -242,359 +242,362 @@
     "vote": { "real": 88, "fake": 4 }
   }
 ],
+  
   "comments": [
     {
       "id": 1,
       "commentId": 101,
       "newsId": 1,
-      "author": "John Doe",
+      "author": "Arthit Wongsakul",
       "authorVerdict": "real",
       "commentText": "The F-16 program has always been a point of pride for the Air Force.",
       "date": "2025-08-12",
       "time": "14:30",
-      "images": ["https://images.unsplash.com/photo-1502685104226-ee32379fefbe"]
+      "images": ["https://i.pinimg.com/736x/31/ea/9a/31ea9a0324756719da71f39be82f22bf.jpg"]
     },
     {
       "id": 2,
       "commentId": 102,
       "newsId": 1,
-      "author": "Skeptic101",
+      "author": "Kawin Saetang",
       "authorVerdict": "fake",
       "commentText": "Feels like a PR stunt rather than an actual operational achievement.",
       "date": "2025-08-12",
       "time": "14:45",
-      "images": ["https://images.unsplash.com/photo-1544723795-3fb6469f5b39"]
+      "images": ["https://i.pinimg.com/736x/3d/24/34/3d2434b89086ad5080661f3090c2aa99.jpg"]
     },
     {
       "id": 3,
       "commentId": 103,
       "newsId": 2,
-      "author": "Marta S.",
+      "author": "Nalinee Pratum",
       "authorVerdict": "real",
       "commentText": "Mapping drones could be a game changer for border surveillance.",
       "date": "2025-08-12",
       "time": "15:05",
-      "images": ["https://images.unsplash.com/photo-1500648767791-00dcc994a43e"]
+      "images": ["https://i.pinimg.com/736x/24/1d/40/241d402e119891e89ed9d00ff86b7deb.jpg"]
     },
     {
       "id": 4,
       "commentId": 104,
       "newsId": 2,
-      "author": "DoubtfulRider",
+      "author": "Thanapol Rerkchai",
       "authorVerdict": "fake",
       "commentText": "They overstate the drone’s capability—it’s not that precise.",
       "date": "2025-08-12",
       "time": "15:15",
-      "images": ["https://images.unsplash.com/photo-1527980965255-d3b416303d12"]
+      "images": ["https://i.pinimg.com/736x/dc/0c/a2/dc0ca298b9d7f1dfe4150655936762e2.jpg"]
     },
     {
       "id": 13,
       "commentId": 113,
       "newsId": 7,
-      "author": "PolicySupporter",
+      "author": "Pimlada Kittikun",
       "authorVerdict": "real",
       "commentText": "Glad to see the Air Force reaffirming commitment to humanitarian law.",
       "date": "2025-08-14",
       "time": "10:15",
-      "images": ["https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"]
+      "images": ["https://i.pinimg.com/736x/bc/a2/68/bca268d27008fa5ca18f9166aca69cf1.jpg"]
     },
     {
       "id": 14,
       "commentId": 114,
       "newsId": 7,
-      "author": "SkepticPilot",
+      "author": "Krit Veeranon",
       "authorVerdict": "fake",
       "commentText": "They say this now, but I doubt operations will truly change.",
       "date": "2025-08-14",
       "time": "10:40",
-      "images": ["https://images.unsplash.com/photo-1544005313-94ddf0286df2"]
+      "images": ["https://i.pinimg.com/736x/fd/d4/8a/fdd48a0beed7defa8e9cfffebe8cfb41.jpg"]
     },
     {
       "id": 15,
       "commentId": 115,
       "newsId": 8,
-      "author": "BorderResident",
+      "author": "Suda Namsai",
       "authorVerdict": "real",
       "commentText": "Hope these talks really lead to safer conditions along the border.",
       "date": "2025-08-11",
       "time": "08:20",
-      "images": ["https://images.unsplash.com/photo-1546456073-6712f79251bb"]
+      "images": ["https://i.pinimg.com/736x/7e/b5/5e/7eb55e285b5248d08e742b7056aa2dce.jpg"]
     },
     {
       "id": 16,
       "commentId": 116,
       "newsId": 8,
-      "author": "MineClearSkeptic",
+      "author": "Wasan Thiradej",
       "authorVerdict": "fake",
       "commentText": "Talks won’t solve anything if both sides keep planting mines.",
       "date": "2025-08-11",
       "time": "08:35",
-      "images": ["https://images.unsplash.com/photo-1547425260-76bcadfb4f2c"]
+      "images": ["https://i.pinimg.com/736x/23/34/af/2334aff129a07613c9b8a84d252a62f9.jpg"]
     },
     {
       "id": 17,
       "commentId": 117,
       "newsId": 9,
-      "author": "LocalTrader",
+      "author": "Jirapat Lertchai",
       "authorVerdict": "real",
       "commentText": "Good that the centre remains active—security is still needed.",
       "date": "2025-08-13",
       "time": "18:05",
-      "images": ["https://images.unsplash.com/photo-1545992339-43fffb65f1a8"]
+      "images": ["https://i.pinimg.com/736x/8f/96/9d/8f969dc21c79b3af3bb98fd9378f1112.jpg"]
     },
     {
       "id": 18,
       "commentId": 118,
       "newsId": 9,
-      "author": "ClosureRumor",
+      "author": "Phurichaya Suksri",
       "authorVerdict": "fake",
       "commentText": "They just don’t want to admit they’re winding things down quietly.",
       "date": "2025-08-13",
       "time": "18:22",
-      "images": ["https://images.unsplash.com/photo-1546456073-6712f79251bb"]
+      "images": ["https://i.pinimg.com/736x/ce/89/af/ce89afece8d60b7a30e02aeddc5ccfd4.jpg"]
     },
     {
       "id": 19,
       "commentId": 119,
       "newsId": 10,
-      "author": "ArmySupporter",
+      "author": "Thanida Maneerat",
       "authorVerdict": "real",
       "commentText": "If new mines were found, that’s a clear breach of international law.",
       "date": "2025-08-04",
       "time": "13:10",
-      "images": ["https://images.unsplash.com/photo-1544005313-94ddf0286df2"]
+      "images": ["https://i.pinimg.com/736x/22/4c/b1/224cb18e8168c4fd4a96f5d8ccc34346.jpg"]
     },
     {
       "id": 20,
       "commentId": 120,
       "newsId": 10,
-      "author": "BorderDoubter",
+      "author": "Anan Prasert",
       "authorVerdict": "fake",
       "commentText": "Looks like political blame-shifting more than hard evidence.",
       "date": "2025-08-04",
       "time": "13:25",
-      "images": ["https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"]
+      "images": ["https://i.pinimg.com/736x/01/a7/24/01a724a229aaded29cafd6aba80cc9e5.jpg"]
     },
     {
       "id": 21,
       "commentId": 121,
       "newsId": 11,
-      "author": "PeaceHoper",
+      "author": "Siriporn Chaiyasit",
       "authorVerdict": "real",
       "commentText": "Even small progress in Malaysia talks is better than none.",
       "date": "2025-08-03",
       "time": "09:15",
-      "images": ["https://images.unsplash.com/photo-1502685104226-ee32379fefbe"]
+      "images": ["https://i.pinimg.com/736x/dc/0a/f7/dc0af7a35dc760e0f45756b74c86b3b1.jpg"]
     },
     {
       "id": 22,
       "commentId": 122,
       "newsId": 11,
-      "author": "CeasefireCritic",
+      "author": "Kamonchanok Fongdee",
       "authorVerdict": "fake",
       "commentText": "Troops are still building up—this isn’t real peace.",
       "date": "2025-08-03",
       "time": "09:28",
-      "images": ["https://images.unsplash.com/photo-1544723795-3fb6469f5b39"]
+      "images": ["https://i.pinimg.com/736x/94/91/d9/9491d9d6e0a6d7e755032dcbdf36cb2f.jpg"]
     },
     {
       "id": 23,
       "commentId": 123,
       "newsId": 12,
-      "author": "ReliefWorker",
+      "author": "Pakorn Jirasuk",
       "authorVerdict": "real",
       "commentText": "Unconditional ceasefire is the first step to ending the suffering.",
       "date": "2025-08-02",
       "time": "07:15",
-      "images": ["https://images.unsplash.com/photo-1500648767791-00dcc994a43e"]
+      "images": ["https://i.pinimg.com/1200x/78/5b/4a/785b4a242e10668713b72dbdfb84768c.jpg"]
     },
     {
       "id": 24,
       "commentId": 124,
       "newsId": 12,
-      "author": "SkepticVoice",
+      "author": "Nimman Kaewwong",
       "authorVerdict": "fake",
       "commentText": "We’ve seen these deals collapse before—don’t get your hopes up.",
       "date": "2025-08-02",
       "time": "07:25",
-      "images": ["https://images.unsplash.com/photo-1527980965255-d3b416303d12"]
+      "images": ["https://i.pinimg.com/736x/bd/98/d0/bd98d05f64f8b6794fceccf3e50257b3.jpg"]
     },
     {
       "id": 25,
       "commentId": 125,
       "newsId": 13,
-      "author": "FieldMedic",
+      "author": "Sarun Phattharadej",
       "authorVerdict": "real",
       "commentText": "Four mine incidents in a month is alarming—clear them fast.",
       "date": "2025-08-12",
       "time": "17:05",
-      "images": ["https://images.unsplash.com/photo-1546456073-6712f79251bb"]
+      "images": ["https://i.pinimg.com/736x/81/3d/c7/813dc78a3416bcfef972373f24b7004a.jpg"]
     },
     {
       "id": 26,
       "commentId": 126,
       "newsId": 13,
-      "author": "CambodiaDefender",
+      "author": "Chanika Rojanasakul",
       "authorVerdict": "fake",
       "commentText": "These are old war mines—stop blaming Cambodia for everything.",
       "date": "2025-08-12",
       "time": "17:20",
-      "images": ["https://images.unsplash.com/photo-1547425260-76bcadfb4f2c"]
+      "images": ["https://i.pinimg.com/736x/12/6b/e4/126be4dce0f8fc71a00caee74f1d101f.jpg"]
     },
     {
       "id": 27,
       "commentId": 127,
       "newsId": 14,
-      "author": "MonkFollower",
+      "author": "Warisa Malai",
       "authorVerdict": "real",
       "commentText": "People shouldn’t overreact to a joke—it’s not espionage.",
       "date": "2025-08-05",
       "time": "20:05",
-      "images": ["https://images.unsplash.com/photo-1545992339-43fffb65f1a8"]
+      "images": ["https://i.pinimg.com/1200x/11/35/c3/1135c39f92895aeb602fde369dcd59b0.jpg"]
     },
     {
       "id": 28,
       "commentId": 128,
       "newsId": 14,
-      "author": "NationalistVoice",
+      "author": "Prasert Hinsawat",
       "authorVerdict": "fake",
       "commentText": "This proves foreign religious figures can’t be trusted here.",
       "date": "2025-08-05",
       "time": "20:20",
-      "images": ["https://images.unsplash.com/photo-1502685104226-ee32379fefbe"]
+      "images": ["https://i.pinimg.com/736x/48/fc/1a/48fc1a1898559460f7a3b99da69854eb.jpg"]
     },
     {
       "id": 29,
       "commentId": 129,
       "newsId": 15,
-      "author": "RightsAdvocate",
+      "author": "Chutima Techawong",
       "authorVerdict": "real",
       "commentText": "Landmine use must be condemned—too many lives at risk.",
       "date": "2025-08-13",
       "time": "17:00",
-      "images": ["https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"]
+      "images": ["https://i.pinimg.com/736x/ec/87/1d/ec871d8af2aff5075ecbc863ec00d170.jpg"]
     },
     {
       "id": 30,
       "commentId": 130,
       "newsId": 15,
-      "author": "BlameShifter",
+      "author": "Teerapat Dhammasak",
       "authorVerdict": "fake",
       "commentText": "Sounds like Thailand is just making excuses for military failures.",
       "date": "2025-08-13",
       "time": "17:12",
-      "images": ["https://images.unsplash.com/photo-1544005313-94ddf0286df2"]
+      "images": ["https://i.pinimg.com/736x/c2/99/17/c29917ff247597f14396a4a7b8119b23.jpg"]
     },
     {
       "id": 31,
       "commentId": 131,
       "newsId": 16,
-      "author": "PeaceAdvocate",
+      "author": "Ratchanok Limsakul",
       "authorVerdict": "real",
       "commentText": "An unconditional truce is exactly what’s needed now.",
       "date": "2025-08-11",
       "time": "08:15",
-      "images": ["https://images.unsplash.com/photo-1547425260-76bcadfb4f2c"]
+      "images": ["https://i.pinimg.com/736x/ae/29/8f/ae298ff0047b2e8653dec58e6abcbabc.jpg"]
     },
     {
       "id": 32,
       "commentId": 132,
       "newsId": 16,
-      "author": "ConflictSkeptic",
+      "author": "Kornchai Yodsri",
       "authorVerdict": "fake",
       "commentText": "They’ve said ‘ceasefire’ before—never lasts more than a week.",
       "date": "2025-08-11",
       "time": "08:27",
-      "images": ["https://images.unsplash.com/photo-1546456073-6712f79251bb"]
+      "images": ["https://i.pinimg.com/736x/d0/40/f0/d040f09fa5902e0857719737b0f6b871.jpg"]
     },
     {
       "id": 33,
       "commentId": 133,
       "newsId": 17,
-      "author": "DiplomacyFan",
+      "author": "Natasha Boonyasit",
       "authorVerdict": "real",
       "commentText": "International pressure might finally push both sides to settle.",
       "date": "2025-07-28",
       "time": "13:40",
-      "images": ["https://images.unsplash.com/photo-1545992339-43fffb65f1a8"]
+      "images": ["https://i.pinimg.com/736x/d2/3a/34/d23a345dfd26e1420df18f88b5f676fe.jpg"]
     },
     {
       "id": 34,
       "commentId": 134,
       "newsId": 17,
-      "author": "DealSkeptic",
+      "author": "Piriya Sutham",
       "authorVerdict": "fake",
       "commentText": "Trump’s involvement won’t make any real difference here.",
       "date": "2025-07-28",
       "time": "13:55",
-      "images": ["https://images.unsplash.com/photo-1544723795-3fb6469f5b39"]
+      "images": ["https://i.pinimg.com/736x/18/19/c4/1819c47f624c033dd01c3a0bb8a85c41.jpg"]
     },
     {
       "id": 35,
       "commentId": 135,
       "newsId": 18,
-      "author": "CourtWatcher",
+      "author": "Benjamas Ithichai",
       "authorVerdict": "real",
       "commentText": "This court case could shift Thailand’s political landscape.",
       "date": "2025-08-13",
       "time": "21:15",
-      "images": ["https://images.unsplash.com/photo-1500648767791-00dcc994a43e"]
+      "images": ["https://i.pinimg.com/736x/1b/de/85/1bde85b859a3ac61516fcc6bc73a1fff.jpg"]
     },
     {
       "id": 36,
       "commentId": 136,
       "newsId": 18,
-      "author": "PMCritic",
+      "author": "Kantaphon Charoensap",
       "authorVerdict": "fake",
       "commentText": "The case is just political theater—won’t lead to real change.",
       "date": "2025-08-13",
       "time": "21:25",
-      "images": ["https://images.unsplash.com/photo-1527980965255-d3b416303d12"]
+      "images": ["https://i.pinimg.com/736x/54/5d/e0/545de075b50155957e2488a1af19030a.jpg"]
     },
     {
       "id": 37,
       "commentId": 137,
       "newsId": 19,
-      "author": "PoliticalAnalyst",
+      "author": "Prangrung Srisawat",
       "authorVerdict": "real",
       "commentText": "Her reliance on personal connections shows the fragility of diplomacy.",
       "date": "2025-08-09",
       "time": "08:45",
-      "images": ["https://images.unsplash.com/photo-1502685104226-ee32379fefbe"]
+      "images": ["https://i.pinimg.com/736x/49/0c/1c/490c1c17f39169144e79ea3c3ddb0101.jpg"]
     },
     {
       "id": 38,
       "commentId": 138,
       "newsId": 19,
-      "author": "FriendshipSkeptic",
+      "author": "Adisorn Vichairat",
       "authorVerdict": "fake",
       "commentText": "This so-called friendship is just a cover for political deals.",
       "date": "2025-08-09",
       "time": "08:55",
-      "images": ["https://images.unsplash.com/photo-1544005313-94ddf0286df2"]
+      "images": ["https://i.pinimg.com/736x/11/f9/91/11f991d18ce385e7f1acd82fb83b7b80.jpg"]
     },
     {
       "id": 39,
       "commentId": 139,
       "newsId": 20,
-      "author": "FreeSpeechAdvocate",
+      "author": "Nicha Phrompan",
       "authorVerdict": "real",
       "commentText": "Comedians should have the right to make edgy jokes, even about politics.",
       "date": "2025-07-16",
       "time": "18:00",
-      "images": ["https://images.unsplash.com/photo-1547425260-76bcadfb4f2c"]
+      "images": ["https://i.pinimg.com/736x/fd/ef/05/fdef05ef7e3a363113bf08642a3a8bb3.jpg"]
     },
     {
       "id": 40,
       "commentId": 140,
       "newsId": 20,
-      "author": "CivilitySupporter",
+      "author": "Pongsatorn Amnat",
       "authorVerdict": "fake",
       "commentText": "That was an unacceptable thing to say—completely crossed the line.",
       "date": "2025-07-16",
       "time": "18:12",
-      "images": ["https://images.unsplash.com/photo-1546456073-6712f79251bb"]
+      "images": ["https://i.pinimg.com/736x/31/ea/9a/31ea9a0324756719da71f39be82f22bf.jpg"]
     }
   ]
-
 }
+
+
+
